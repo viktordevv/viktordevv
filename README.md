@@ -1,5 +1,3 @@
-👋
-
 ### ![link](https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif)
 
 <h1 align="center">A passionate frontend developer from Colombia</h1>
