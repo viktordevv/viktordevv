@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ![link](https://lh3.googleusercontent.com/pw/AM-JKLUruXVuRYpUwJJ65F3TPug4lu91z_Iciw5DhVCNyhj678kfowL0BnsC9inZx2o1nRMtYtn5SF5ucu-5j6xbw9C7NnNfWtiF2aGjbjsTi99Dz2268QPkZsP4H0Mxm_eN3k5pJ7j52VzGXjzh_qyQx78=w1012-h569-no?authuser=4)
+### ![link](https://lh3.googleusercontent.com/pw/AM-JKLU5VYBO9plkxfFtVd4-8FUFtt0OFkM5FNp9D7ABe3h28CwdQqvzBqase_0H1xrYeDw2muu6Yg-q3WhC0LKVUIDkivk5XqBqjVUgl-zkzdbYNAd4QrNp2___Jr_DGWLvDUcVRXxdSnjc18vluRAll0M=w498-h469-no?authuser=4)
 
 <!--
 **viktorkrill/viktorkrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
