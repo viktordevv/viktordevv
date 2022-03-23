@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### ![link](https://i.imgur.com/Cqbx8Vf.gif)
+
 <!--
 **viktorkrill/viktorkrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
