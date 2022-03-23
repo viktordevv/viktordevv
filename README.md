@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ![link](https://i.imgur.com/Cqbx8Vf.gif)
+### ![link](https://lh3.googleusercontent.com/pw/AM-JKLUruXVuRYpUwJJ65F3TPug4lu91z_Iciw5DhVCNyhj678kfowL0BnsC9inZx2o1nRMtYtn5SF5ucu-5j6xbw9C7NnNfWtiF2aGjbjsTi99Dz2268QPkZsP4H0Mxm_eN3k5pJ7j52VzGXjzh_qyQx78=w1012-h569-no?authuser=4)
 
 <!--
 **viktorkrill/viktorkrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
