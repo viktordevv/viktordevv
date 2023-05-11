@@ -10,10 +10,6 @@
 - 📫 How to reach me: Twitter & Email
 - 🌱 I’m currently learning English & Italian
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorKrill&show_icons=true&theme=gruvbox)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrill&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Commits
